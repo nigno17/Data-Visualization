@@ -37,6 +37,5 @@ public class BallControllerPhysics : MonoBehaviour
             // apply jump force
             playerRB.AddForce(JumpForce, ForceMode.Impulse);
         }
-
     }
 }
