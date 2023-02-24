@@ -9,7 +9,7 @@ public class TriggerColorController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Retrie player's gameObject 
+        // Retrive player's gameObject 
         GameObject playerGO = GameObject.FindWithTag("Player");
         // Get the player's Material
         playerMaterial = playerGO.GetComponent<MeshRenderer>().material;    

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - BouncingBox
   - DisapBox
+  - Trigger
   layers:
   - Default
   - TransparentFX

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2350621058354215746}
   - component: {fileID: 2430660035318176667}
   - component: {fileID: 6813060050603258364}
-  - component: {fileID: -6178496789232281130}
+  - component: {fileID: -7314926582305400863}
   m_Layer: 0
   m_Name: Bouncing Box
   m_TagString: BouncingBox
@@ -115,7 +115,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &-6178496789232281130
+--- !u!114 &-7314926582305400863
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
